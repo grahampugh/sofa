@@ -3,8 +3,8 @@ import { resolve } from 'path';
 import { extractHeadings } from './plugins/extractHeadings';
 
 export default defineConfig({
-  base: '/',
-  title: 'SOFA - by Mac Admins Open Source',
+  base: '/sofa/',
+  title: 'SOFA - by Mac Admins Open Source - Graham Pugh Fork',
   description: 'SOFA supports MacAdmins by efficiently tracking and surfacing information on updates for macOS and iOS.',
   themeConfig: {
     logo: '/custom_logo.png',
