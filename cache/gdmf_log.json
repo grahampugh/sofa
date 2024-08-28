@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2024-08-27T20:38:48+00:00Z",
-        "UpdateHash": "9cbe7d46bbdf317ae74615b700d915bccd79fb6532e322762c858b0fafc33a88"
+        "LastCheck": "2024-08-28T01:51:41+00:00Z",
+        "UpdateHash": "86ca3e523e33208cda77f17758fa006e059d2f60e6a21c1dfd1fdb885f286683"
     },
     "log": [
+        {
+            "timestamp": "2024-08-28T01:51:41+00:00Z",
+            "new_etag": "86ca3e523e33208cda77f17758fa006e059d2f60e6a21c1dfd1fdb885f286683",
+            "status": "success (200)",
+            "previous_etag": "86ca3e523e33208cda77f17758fa006e059d2f60e6a21c1dfd1fdb885f286683"
+        },
+        {
+            "timestamp": "2024-08-28T01:51:21+00:00Z",
+            "new_etag": "86ca3e523e33208cda77f17758fa006e059d2f60e6a21c1dfd1fdb885f286683",
+            "status": "success (200)",
+            "previous_etag": "9cbe7d46bbdf317ae74615b700d915bccd79fb6532e322762c858b0fafc33a88"
+        },
         {
             "timestamp": "2024-08-27T20:38:48+00:00Z",
             "new_etag": "9cbe7d46bbdf317ae74615b700d915bccd79fb6532e322762c858b0fafc33a88",
@@ -49,18 +61,6 @@
         {
             "timestamp": "2024-08-27T18:20:19+00:00Z",
             "new_etag": "9cbe7d46bbdf317ae74615b700d915bccd79fb6532e322762c858b0fafc33a88",
-            "status": "success (200)",
-            "previous_etag": "762ace47fd70f9867d37f6494bc3c74e58fc4f7dc2ec19014422c17b47b31d21"
-        },
-        {
-            "timestamp": "2024-08-27T17:13:40+00:00Z",
-            "new_etag": "762ace47fd70f9867d37f6494bc3c74e58fc4f7dc2ec19014422c17b47b31d21",
-            "status": "success (200)",
-            "previous_etag": "762ace47fd70f9867d37f6494bc3c74e58fc4f7dc2ec19014422c17b47b31d21"
-        },
-        {
-            "timestamp": "2024-08-27T17:13:25+00:00Z",
-            "new_etag": "762ace47fd70f9867d37f6494bc3c74e58fc4f7dc2ec19014422c17b47b31d21",
             "status": "success (200)",
             "previous_etag": "762ace47fd70f9867d37f6494bc3c74e58fc4f7dc2ec19014422c17b47b31d21"
         }
