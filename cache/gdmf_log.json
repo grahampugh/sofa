@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2024-10-01T19:13:40+00:00Z",
-        "UpdateHash": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753"
+        "LastCheck": "2024-10-01T20:17:59+00:00Z",
+        "UpdateHash": "dcff1f2588fe8cc972bca08aec0cbba35e461db11617fea262641df4a6ecaadc"
     },
     "log": [
+        {
+            "timestamp": "2024-10-01T20:17:59+00:00Z",
+            "new_etag": "dcff1f2588fe8cc972bca08aec0cbba35e461db11617fea262641df4a6ecaadc",
+            "status": "success (200)",
+            "previous_etag": "dcff1f2588fe8cc972bca08aec0cbba35e461db11617fea262641df4a6ecaadc"
+        },
+        {
+            "timestamp": "2024-10-01T20:17:51+00:00Z",
+            "new_etag": "dcff1f2588fe8cc972bca08aec0cbba35e461db11617fea262641df4a6ecaadc",
+            "status": "success (200)",
+            "previous_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753"
+        },
         {
             "timestamp": "2024-10-01T19:13:40+00:00Z",
             "new_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2024-10-01T16:46:24+00:00Z",
-            "new_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753",
-            "status": "success (200)",
-            "previous_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753"
-        },
-        {
-            "timestamp": "2024-10-01T13:01:37+00:00Z",
-            "new_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753",
-            "status": "success (200)",
-            "previous_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753"
-        },
-        {
-            "timestamp": "2024-10-01T13:01:28+00:00Z",
             "new_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753",
             "status": "success (200)",
             "previous_etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753"

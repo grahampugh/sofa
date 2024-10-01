@@ -1,5 +1,5 @@
 {
-    "etag": "5f3fe2492535d7b47a9b0db13ff65e6b72100eba59b3052483d0e74676c33753",
+    "etag": "dcff1f2588fe8cc972bca08aec0cbba35e461db11617fea262641df4a6ecaadc",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -819,17 +819,6 @@
                     "Build": "22N6320",
                     "PostingDate": "2024-09-23",
                     "ExpirationDate": "2024-12-30",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
-                    ]
-                }
-            ],
-            "xrOS": [
-                {
-                    "ProductVersion": "1.0.3",
-                    "Build": "21N333",
-                    "PostingDate": "2024-02-12",
-                    "ExpirationDate": "2024-06-05",
                     "SupportedDevices": [
                         "RealityDevice14,1"
                     ]
@@ -4062,17 +4051,6 @@
                     "Build": "22N6320",
                     "PostingDate": "2024-09-16",
                     "ExpirationDate": "2024-12-30",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
-                    ]
-                }
-            ],
-            "xrOS": [
-                {
-                    "ProductVersion": "1.0.3",
-                    "Build": "21N333",
-                    "PostingDate": "2024-02-12",
-                    "ExpirationDate": "2024-06-05",
                     "SupportedDevices": [
                         "RealityDevice14,1"
                     ]
