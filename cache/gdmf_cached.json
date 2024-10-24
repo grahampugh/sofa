@@ -1,5 +1,5 @@
 {
-    "etag": "b6f4b424db612c0881e56e13905aa4c1144a25128305c5bd04828701d3cc3ad2",
+    "etag": "3e7b2ca6f7dec68ea29fb76ffaa9c20711b658ac832a4f5cf252e5ac3edb6a73",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1961,7 +1961,7 @@
                     "ProductVersion": "17.6.1",
                     "Build": "21G6093",
                     "PostingDate": "2024-08-07",
-                    "ExpirationDate": "2025-01-22",
+                    "ExpirationDate": "2024-12-15",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -2109,7 +2109,7 @@
                     "ProductVersion": "17.6.1",
                     "Build": "21G101",
                     "PostingDate": "2024-08-19",
-                    "ExpirationDate": "2025-01-22",
+                    "ExpirationDate": "2024-12-15",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -2767,7 +2767,7 @@
                     "ProductVersion": "17.6.1",
                     "Build": "21G93",
                     "PostingDate": "2024-08-07",
-                    "ExpirationDate": "2025-01-22",
+                    "ExpirationDate": "2024-12-15",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -3519,6 +3519,44 @@
                         "Watch6,7",
                         "Watch6,8",
                         "Watch6,9"
+                    ]
+                }
+            ],
+            "visionOS": [
+                {
+                    "ProductVersion": "2.0.1",
+                    "Build": "22N342",
+                    "PostingDate": "2024-10-03",
+                    "ExpirationDate": "2025-01-22",
+                    "SupportedDevices": [
+                        "RealityDevice14,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "2.0.1",
+                    "Build": "22N6342",
+                    "PostingDate": "2024-10-03",
+                    "ExpirationDate": "2025-01-22",
+                    "SupportedDevices": [
+                        "RealityDevice14,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "2.0",
+                    "Build": "22N320",
+                    "PostingDate": "2024-09-16",
+                    "ExpirationDate": "2025-01-01",
+                    "SupportedDevices": [
+                        "RealityDevice14,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "2.0",
+                    "Build": "22N6320",
+                    "PostingDate": "2024-09-16",
+                    "ExpirationDate": "2025-01-01",
+                    "SupportedDevices": [
+                        "RealityDevice14,1"
                     ]
                 }
             ],
@@ -4381,44 +4419,6 @@
                         "Mac-AA95B1DDAB278B95",
                         "VMA2MACOSAP",
                         "VMM-x86_64"
-                    ]
-                }
-            ],
-            "visionOS": [
-                {
-                    "ProductVersion": "2.0.1",
-                    "Build": "22N342",
-                    "PostingDate": "2024-10-03",
-                    "ExpirationDate": "2025-01-22",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "2.0.1",
-                    "Build": "22N6342",
-                    "PostingDate": "2024-10-03",
-                    "ExpirationDate": "2025-01-22",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "2.0",
-                    "Build": "22N320",
-                    "PostingDate": "2024-09-16",
-                    "ExpirationDate": "2025-01-01",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "2.0",
-                    "Build": "22N6320",
-                    "PostingDate": "2024-09-16",
-                    "ExpirationDate": "2025-01-01",
-                    "SupportedDevices": [
-                        "RealityDevice14,1"
                     ]
                 }
             ]
